@@ -1,0 +1,12 @@
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\MyClass.dll.config
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\MyClass.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\MyClass.pdb
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\EntityFramework.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\EntityFramework.xml
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\obj\Debug\MyClass.csproj.CopyComplete
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\obj\Debug\MyClass.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\MyClass\obj\Debug\MyClass.pdb

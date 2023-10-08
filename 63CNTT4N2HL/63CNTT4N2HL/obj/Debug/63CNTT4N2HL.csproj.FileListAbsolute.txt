@@ -77,3 +77,10 @@ D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\obj\Debug\63CNTT4N2HL.c
 D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\obj\Debug\63CNTT4N2HL.csproj.CopyComplete
 D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\obj\Debug\63CNTT4N2HL.dll
 D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\obj\Debug\63CNTT4N2HL.pdb
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\EntityFramework.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\EntityFramework.SqlServer.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\EntityFramework.xml
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\EntityFramework.SqlServer.xml
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\MyClass.dll
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\MyClass.pdb
+D:\ASP bài tập\GitClone\WebBT\63CNTT4N2HL\63CNTT4N2HL\bin\MyClass.dll.config
