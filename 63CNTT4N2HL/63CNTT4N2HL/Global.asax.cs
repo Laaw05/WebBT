@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _63CNTT4N2HL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,5 +18,12 @@ namespace _63CNTT4N2HL
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        //Tao moi Session
+        protected void Session_Start()
+        {
+            Session["UserID"] = "1";
+        }
+
     }
 }
